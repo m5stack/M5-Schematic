@@ -71,3 +71,5 @@ Notes:
 | *LED*         | *ESP32Cam*    | *M5Camera*  |
 | :-----------: | :--------:  | :------:  |
 | LED_Pin           | IO16        | IO14      |
+
+![Image text](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/m5camera_03.jpg)
