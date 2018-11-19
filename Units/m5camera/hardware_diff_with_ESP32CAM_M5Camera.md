@@ -21,13 +21,9 @@
 | Pixel Data Bit 6      | D8        | IO36                        | IO36        |IO36       |
 | Pixel Data Bit 7      | D9        | IO19                        | IO19        |IO39       |
 | Camera Reset          | RESET     | IO15                        | IO15        |IO15       |
-| Camera Power Down     | PWDN      | *see Note 3*                | *see Note 3* | *see Note 3* |
+| Camera Power Down     | PWDN      | *see Note 1*                | *see Note 1* | *see Note 1* |
 | Power Supply 3.3V     | 3V3       | 3V3                         | 3V3         | 3V3       |
 | Ground                | GND       | GND                         | GND         | GND       |
-
-Notes:
-
-3. **Camera Power Down** pin does not need to be connected to ESP32 GPIO. Instead it may be pulled down to ground with 10 kOhm resistor.
 
 **GROVE Interface**
 
@@ -55,21 +51,26 @@ Notes:
 
 **MIC(SPM1423) Interface**
 
-| *MPU6050*            | *M5Camera*  |
-| :-----------: | :------:  |
-| SCL           | IO2      |
-| SDA           | IO4      |
+| *MPU6050*     | *ESP32Cam*        | *M5Camera*  | 
+| :-----------: | :------:  | :------:  |
+| SCL           | *see Note 2*      |IO2
+| SDA           | *see Note 2*      |IO4
 
 **MIC(SPQ2410) Interface**
 
-| *MPU6050*            | *ESP32Cam*  |
-| :-----------: | :------:  |
-| SCL           | IO32      |
+| *MPU6050*            | *ESP32Cam*  | *M5Camera*  | 
+| :-----------: | :------:  |:------:  |
+| SCL           | IO32      |*see Note 2* 
 
 **LED Interface**
 
 | *LED*         | *ESP32Cam*    | *M5Camera*  |
 | :-----------: | :--------:  | :------:  |
 | LED_Pin           | IO16        | IO14      |
+
+Notes:
+
+1. **Camera Power Down** pin does not need to be connected to ESP32 GPIO. Instead it may be pulled down to ground with 10 kOhm resistor.
+2. **MIC Interface** MIC IC on ESP32Cam is SPQ2410. It is mapped to GPIO32. MIC IC on M5Camera is SPM1423. It is mapped to GPIO2 and GPIO4.
 
 ![Image text](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/m5camera_03.jpg)
