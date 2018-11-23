@@ -13,8 +13,8 @@ Currently, we have 4 kinds of M5Cores and one minicore(*named M5Stick*). They ar
 | *Difference*          | *M5Core Basic*    | *M5Core GRAY*                 | *M5Core WHITE*    | *M5Fire*      |
 | :-------------------  | :--------:        | :-------------------------:   | :--------:        | :------:      |
 | MEMS                  | No MEMS           | MPU9250                       | MPU9250           |MPU9250        |
-| RAM                   | 520KB             | 520KB                         | 520KB             |4M             |
-| FLASH                 | 4M                | 4M                            | 4M                |16M            |
+| RAM                   | 520KB             | 520KB                         | 520KB             |520KB+4M             |
+| FLASH                 | 4M                | 4M                            | 16M                |16M            |
 
 
 ## 1. M5Core Basic
