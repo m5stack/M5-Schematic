@@ -20,7 +20,7 @@ Currently, we have 4 kinds of M5Cores and one minicore(*named M5Stick*). They ar
 
 M5Core Basic = main board + m5core base
 
-![M5Core Basic](./Core/basic.jpg)
+![M5Core Basic](basic.jpg)
 
 https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_basic
 
@@ -28,7 +28,7 @@ https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_bas
 
 M5Core GRAY = main board + m5core base
 
-![M5Core GRAY](./Core/gray.jpg)
+![M5Core GRAY](gray.jpg)
 
 https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_gray
 
@@ -36,7 +36,7 @@ https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_gra
 
 M5Core WHITE = main board + m5go base
 
-![M5Core WHITE](./Core/m5go.png)
+![M5Core WHITE](m5go.png)
 
 https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_white
 
@@ -44,6 +44,6 @@ https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_whi
 
 M5Core M5Fire = main board + m5go base
 
-![M5Core M5Fire](./Core/fire.jpg)
+![M5Core M5Fire](fire.jpg)
 
 https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_fire
