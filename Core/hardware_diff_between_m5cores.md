@@ -6,7 +6,11 @@ Currently, we have 4 kinds of M5Cores and one minicore(*named M5Stick*). They ar
 
 **Be carefull, the arly version of M5Fire was built in MPU6050 + MAGE3110, but we change MPU6050 + MAGE3110 to MPU9250.**
 
-*IIC Address of MPU9250 is 0x68.*
+*IIC Address*
+
+*MPU9250: 0x68*
+
+*IP5360:  0x0E*
 
 ## Difference
 
@@ -16,7 +20,7 @@ Currently, we have 4 kinds of M5Cores and one minicore(*named M5Stick*). They ar
 | :-------------------  | :--------:        | :-------------------------:   | :--------:        | :------:      |
 | MEMS                  | No MEMS           | MPU9250                       | MPU9250           |MPU9250        |
 | RAM                   | 520KB             | 520KB                         | 520KB             |520KB+4M             |
-| FLASH                 | 4M                | 4M                            | 16M                |16M            |
+| FLASH                 | 4M                | 4M                            | 4M+16M                |4M+16M            |
 
 
 ## 1. M5Core Basic
