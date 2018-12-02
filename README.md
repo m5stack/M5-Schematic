@@ -1,6 +1,6 @@
 # M5-Schematic
 
-中文 | [English](](README_en.md))
+中文 | [English](README_en.md)
 
 *这是M5Stack开源产品的原理图*
 
