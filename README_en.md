@@ -1,6 +1,6 @@
 # M5-Schematic
 
-中文 | [English](README.md)
+[中文](README.md) | English
 
 *这是M5Stack开源产品的原理图*
 *同时，还包括了同一产品线类似产品间的硬件对比描述，方便大家根据自己的设计需求，选择合适的M5产品*
