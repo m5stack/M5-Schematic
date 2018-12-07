@@ -4,7 +4,7 @@
 
 Currently, we have 4 kinds of M5Cores and one minicore(*named M5Stick*). They are simliar to each other.
 
-**Be carefull, the arly version of M5Fire was built in MPU6050 + MAGE3110, but we change MPU6050 + MAGE3110 to MPU9250.**
+**Be careful, the arly version of M5Fire was built in MPU6050 + MAGE3110, but we change MPU6050 + MAGE3110 to MPU9250.**
 
 *IIC Address*
 
