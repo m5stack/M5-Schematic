@@ -36,9 +36,8 @@
 
 **BME280 Interface**
 
-<mark>Note:</mark>
-
-<mark>the pinmap of BME280 on the old version of M5Camera is SCL -> GPIO23, SDA -> GPIO22, and it's iic address is 0x76. Thanks the issues of @sige1(issues#1)</mark>
+`Note:`
+`the pinmap of BME280 on the old version of M5Camera is SCL -> GPIO23, SDA -> GPIO22, and it's iic address is 0x76. Thanks the issues of [sige1](https://github.com/sige1)(issues#1)`
 
 | *BME280*         | *ESP32Cam*    | *M5Camera*  |
 | :-----------: | :--------:  | :------:  |
