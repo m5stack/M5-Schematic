@@ -19,7 +19,7 @@
 | Pixel Data Bit 4      | D6        | IO39                        | IO39        |IO39       |
 | Pixel Data Bit 5      | D7        | IO18                        | IO18        |IO18       |
 | Pixel Data Bit 6      | D8        | IO36                        | IO36        |IO36       |
-| Pixel Data Bit 7      | D9        | IO19                        | IO19        |IO39       |
+| Pixel Data Bit 7      | D9        | IO19                        | IO19        |IO19       |
 | Camera Reset          | RESET     | IO15                        | IO15        |IO15       |
 | Camera Power Down     | PWDN      | *see Note 1*                | *see Note 1* | *see Note 1* |
 | Power Supply 3.3V     | 3V3       | 3V3                         | 3V3         | 3V3       |
