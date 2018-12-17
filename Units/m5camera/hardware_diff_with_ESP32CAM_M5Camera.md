@@ -1,5 +1,6 @@
 # Schematic difference with ESP32CAM and M5Camera
 
+*The firmware for M5Camera is https://github.com/m5stack/m5stack-cam-psram*
 ## PinMap
 
 **Camera Interface PinMap**
