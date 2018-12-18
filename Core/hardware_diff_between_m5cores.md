@@ -14,7 +14,7 @@ Currently, we have 4 kinds of M5Cores and one minicore(*named M5Stick*). They ar
 
 ## Difference
 
-**Camera Interface PinMap**
+**Difference**
 
 | *Difference*          | *M5Core Basic*    | *M5Core GRAY*                 | *M5Core WHITE*    | *M5Fire*      |
 | :-------------------  | :--------:        | :-------------------------:   | :--------:        | :------:      |

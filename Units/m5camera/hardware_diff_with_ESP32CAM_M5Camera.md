@@ -1,5 +1,9 @@
 # Schematic difference with ESP32CAM and M5Camera
 
+*Be careful about that ESP32CAM will be suspended*
+
+*The firmware for M5Camera is https://github.com/m5stack/m5stack-cam-psram*
+
 ## PinMap
 
 **Camera Interface PinMap**
@@ -19,7 +23,7 @@
 | Pixel Data Bit 4      | D6        | IO39                        | IO39        |IO39       |
 | Pixel Data Bit 5      | D7        | IO18                        | IO18        |IO18       |
 | Pixel Data Bit 6      | D8        | IO36                        | IO36        |IO36       |
-| Pixel Data Bit 7      | D9        | IO19                        | IO19        |IO39       |
+| Pixel Data Bit 7      | D9        | IO19                        | IO19        |IO19       |
 | Camera Reset          | RESET     | IO15                        | IO15        |IO15       |
 | Camera Power Down     | PWDN      | *see Note 1*                | *see Note 1* | *see Note 1* |
 | Power Supply 3.3V     | 3V3       | 3V3                         | 3V3         | 3V3       |
@@ -35,6 +39,8 @@
 | GND           | GND         | GND       |
 
 **BME280 Interface**
+
+`Note: the pinmap of BME280 on the old version of M5Camera is SCL -> GPIO23, SDA -> GPIO22, and it's iic address is 0x76. Thanks the issues of [sige1](https://github.com/sige1)(issues#1)`
 
 | *BME280*         | *ESP32Cam*    | *M5Camera*  |
 | :-----------: | :--------:  | :------:  |
