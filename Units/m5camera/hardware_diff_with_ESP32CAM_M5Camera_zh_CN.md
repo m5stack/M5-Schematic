@@ -82,4 +82,8 @@ Notes:
 
 2. **麦克风引脚** ESP32Cam 上的麦克风 IC 是 SPQ2410，连接到 GPIO32 引脚。M5Camera 上的麦克风 IC 是 SPM1423，连接到 GPIO2 和 GPIO4 引脚。
 
-![Image text](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/m5camera_03.jpg)
+![Image text](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/m5camera_B.png)
+
+**A model 和 B model 的图片**
+
+![Image text](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/diff_A_B.png)

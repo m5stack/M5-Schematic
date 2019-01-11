@@ -83,6 +83,6 @@ Notes:
 
 ![Image text](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/m5camera_B.png)
 
-**Difference between A model and B model**
+**The picture of A model and B model**
 
 ![Image text](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/diff_A_B.png)
