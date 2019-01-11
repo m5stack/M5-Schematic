@@ -27,7 +27,7 @@ Currently, we have 4 kinds of M5Cores and one minicore(*named M5Stick*). They ar
 
 M5Core Basic = main board + m5core base
 
-![M5Core Basic](https://github.com/m5stack/M5-Schematic/blob/master/Core/basic.jpg  =200x)
+![M5Core Basic](https://github.com/m5stack/M5-Schematic/blob/master/Core/basic.jpg)
 
 https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_basic
 
