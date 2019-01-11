@@ -39,11 +39,11 @@ M5Core GRAY = main board + m5core base
 
 https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_gray
 
-## 3. M5Core WHITE
+## 3. M5GO Lite
 
 M5Core WHITE = main board + m5go base
 
-![M5Core WHITE](m5go.png)
+<img src=https://github.com/m5stack/M5-Schematic/blob/master/Core/m5go.jpg width = "500" height = "500">
 
 https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_white
 
@@ -51,6 +51,6 @@ https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_whi
 
 M5Core M5Fire = main board + m5go base
 
-![M5Core M5Fire](fire.jpg)
+<img src=https://github.com/m5stack/M5-Schematic/blob/master/Core/fire.jpg width = "500" height = "500">
 
 https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_fire
