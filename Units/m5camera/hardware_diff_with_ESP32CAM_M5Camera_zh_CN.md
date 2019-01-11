@@ -1,16 +1,16 @@
-# Schematic difference with ESP32CAM and M5Camera
+# ESP32CAM 与 M5Camera 的硬件对比
 
-**[中文](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/hardware_diff_with_ESP32CAM_M5Camera_zh_CN.md)**
+**[English](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/hardware_diff_with_ESP32CAM_M5Camera.md)**
 
-*Be careful about that ESP32CAM will be suspended*
+*注意：ESP32CAM过一段时间之后会下架。*
 
-*The firmware for M5Camera is https://github.com/m5stack/m5stack-cam-psram*
+*M5Camera的固件地址：https://github.com/m5stack/m5stack-cam-psram*
 
-## PinMap
+## 管脚对比
 
-**Camera Interface PinMap**
+**摄像头驱动芯片 OV2640 接口**
 
-| *Interface*             | *Camera Pin*| *Alternate ESP32 Pin Mapping* | *ESP32Cam*    | *M5Camera(A model)*  | *M5Camera(B model)*  |
+| *接口*             | *OV2640 引脚*| *Alternate ESP32 Pin Mapping* | *ESP32Cam*    | *M5Camera(A 版本)*  | *M5Camera(B 版本)*  |
 | :-------------------  | :--------:| :-------------------------: | :--------:  | :------:  | :------:  |
 | SCCB Clock            | SIOC      | IO23                        | IO23        |IO23       |IO23       |
 | SCCB Data             | SIOD      | IO25                        | IO25        |**IO25**       |**IO22**       |
@@ -31,54 +31,55 @@
 | Power Supply 3.3V     | 3V3       | 3V3                         | 3V3         | 3V3       | 3V3       |
 | Ground                | GND       | GND                         | GND         | GND       | GND       |
 
-**GROVE Interface**
+**GROVE 接口**
 
-| *Grove*         | *ESP32Cam*    | *M5Camera(A model)*  | *M5Camera(B model)*  |
+| *Grove*         | *ESP32Cam*    | *M5Camera(A 版本)*  | *M5Camera(B 版本)*  |
 | :-----------: | :--------:  | :------:  | :------:  |
 | SCL           | IO13        | IO13      | IO13      |
 | SDA           | IO4        | **IO12**      | **IO4**      |
 | 5V            | 5V          | 5V        | 5V        |
 | GND           | GND         | GND       | GND       |
 
-**BME280 Interface**
+**BME280 接口**
 
 `Note: the pinmap of BME280 on the old version of M5Camera is SCL -> GPIO23, SDA -> GPIO22, and it's iic address is 0x76. Thanks the issues of [sige1](https://github.com/sige1)(issues#1)`
 
-| *BME280*         | *ESP32Cam*    | *M5Camera(A model)*  | *M5Camera(B model)*  |
+| *BME280*         | *ESP32Cam*    | *M5Camera(A 版本)*  | *M5Camera(B 版本)*  |
 | :-----------: | :--------:  | :------:  | :------:  |
 | SCL           | IO4         | IO23      | IO23      |
 | SDA           | IO13        | IO22      | IO22      |
 
 
-**MPU6050 Interface**
+**MPU6050 接口**
 
-| *MPU6050*         | *ESP32Cam*    | *M5Camera(A model)*  | *M5Camera(B model)*  |
+| *MPU6050*         | *ESP32Cam*    | *M5Camera(A 版本)*  | *M5Camera(B 版本)*  |
 | :-----------: | :--------:  | :------:  | :------:  |
 | SCL           | IO4         | IO23      | IO23      |
 | SDA           | IO13        | IO22      | IO22      |
 
-**MIC(SPM1423) Interface**
+**MIC(SPM1423) 接口**
 
-| *MPU6050*     | *ESP32Cam*        | *M5Camera(A model)*  | *M5Camera(B model)*  |
+| *MPU6050*     | *ESP32Cam*        | *M5Camera(A 版本)*  | *M5Camera(B 版本)*  |
 | :-----------: | :------:  | :------:  | :------:  |
 | SCL           | *see Note 2*      |IO2|IO2|
 | SDA           | *see Note 2*      |IO4|IO4|
 
-**MIC(SPQ2410) Interface**
+**MIC(SPQ2410) 接口**
 
-| *MPU6050*            | *ESP32Cam*  | *M5Camera(A model)*  | *M5Camera(B model)*  |
-| :-----------: | :------:  |:------:  |
+| *MPU6050*            | *ESP32Cam*  | *M5Camera(A 版本)*  | *M5Camera(B 版本)*  |
+| :-----------: | :------:  |:------:  | :------:  |
 | SCL           | IO32      |*see Note 2*|*see Note 2*|
 
-**LED Interface**
+**LED 接口**
 
-| *LED*         | *ESP32Cam*    | *M5Camera(A model)*  | *M5Camera(B model)*  |
+| *LED*         | *ESP32Cam*    | *M5Camera(A 版本)*  | *M5Camera(B 版本)*  |
 | :-----------: | :--------:  | :------:  | :------:  |
 | LED_Pin           | IO16        | IO14      | IO14      |
 
 Notes:
 
-1. **Camera Power Down** pin does not need to be connected to ESP32 GPIO. Instead it may be pulled down to ground with 10 kOhm resistor.
-2. **MIC Interface** MIC IC on ESP32Cam is SPQ2410. It is mapped to GPIO32. MIC IC on M5Camera is SPM1423. It is mapped to GPIO2 and GPIO4.
+1. **Camera Power Down 引脚** 没必要连接到 ESP32 的引脚。
+
+2. **麦克风引脚** ESP32Cam 上的麦克风 IC 是 SPQ2410，连接到 GPIO32 引脚。M5Camera 上的麦克风 IC 是 SPM1423，连接到 GPIO2 和 GPIO4 引脚。
 
 ![Image text](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/m5camera_03.jpg)
