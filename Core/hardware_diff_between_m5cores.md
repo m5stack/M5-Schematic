@@ -43,7 +43,7 @@ https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_gra
 
 M5Core WHITE = main board + m5go base
 
-<img src=https://github.com/m5stack/M5-Schematic/blob/master/Core/m5go. width = "500" height = "500">
+<img src=https://github.com/m5stack/M5-Schematic/blob/master/Core/m5go.png width = "500" height = "500">
 
 https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_white
 
