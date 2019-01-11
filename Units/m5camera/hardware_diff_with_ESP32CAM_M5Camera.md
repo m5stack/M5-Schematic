@@ -67,7 +67,7 @@
 **MIC(SPQ2410) Interface**
 
 | *MPU6050*            | *ESP32Cam*  | *M5Camera(A model)*  | *M5Camera(B model)*  |
-| :-----------: | :------:  |:------:  |
+| :-----------: | :------:  |:------:  |:------:  |
 | SCL           | IO32      |*see Note 2*|*see Note 2*|
 
 **LED Interface**
