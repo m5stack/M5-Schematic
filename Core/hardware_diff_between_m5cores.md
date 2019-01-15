@@ -18,7 +18,7 @@ Currently, we have 4 kinds of M5Cores and one minicore(*named M5Stick*). They ar
 
 | *Difference*          | *M5Core Basic* | *M5Core GRAY*   | *M5Core WHITE* | *M5Fire* |
 | :-------------------- | :------------: | :-------------: | :------------: | :------: |
-| MEMS                  | No MEMS        | MPU9250         | MPU9250        |MPU9250   |
+| MEMS                  | None        | MPU9250         | MPU9250        |MPU9250   |
 | RAM                   | 520KB          | 520KB           | 520KB          |520KB+4M  |
 | FLASH                 | 4M             | 4M              | 16M            |16M       |
 
@@ -39,7 +39,7 @@ M5Core GRAY = main board + m5core base
 
 https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_gray
 
-## 3. M5GO Lite
+## 3. M5GO White
 
 M5Core WHITE = main board + m5go base
 

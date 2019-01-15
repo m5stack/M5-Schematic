@@ -16,7 +16,7 @@
 
 | *不同之处*      | *M5Core Basic* | *M5Core GRAY* | *M5Core WHITE* | *M5Fire* |
 | :------------- | :-------------:| :------------:| :-------------:| :------: |
-| 有无姿态传感器   | 无     | MPU9250       | MPU9250         |MPU9250  |
+| 姿态传感器   | 无     | MPU9250       | MPU9250         |MPU9250  |
 | RAM            | 520KB          | 520KB         | 520KB          |520KB+4M  |
 | FLASH          | 4M             | 4M            | 16M            |16M       |
 
@@ -25,7 +25,7 @@
 
 M5Core Basic = 黑色主控板BASIC+m5core base底座
 
-![M5Core Basic](basic.jpg =500x)
+<img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/basic.jpg" width = "500" height = "500">
 
 https://m5stack.github.io/m5-docs/#/zh_CN/product_documents/m5stack-core/m5core_basic
 
@@ -33,7 +33,7 @@ https://m5stack.github.io/m5-docs/#/zh_CN/product_documents/m5stack-core/m5core_
 
 M5Core GRAY = 灰色主控板GRAY+m5core base底座
 
-![M5Core GRAY](gray.jpg =500x)
+<img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/gray.jpg" width = "500" height = "500">
 
 https://m5stack.github.io/m5-docs/#/zh_CN/product_documents/m5stack-core/m5core_gray
 
@@ -41,7 +41,7 @@ https://m5stack.github.io/m5-docs/#/zh_CN/product_documents/m5stack-core/m5core_
 
 M5Core WHITE = 白色主控板+m5go base底座
 
-![M5Core WHITE](m5go.png =500x)
+<img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/m5go.png" width = "500" height = "500">
 
 https://m5stack.github.io/m5-docs/#/zh_CN/product_documents/m5stack-core/m5core_white
 
@@ -49,6 +49,6 @@ https://m5stack.github.io/m5-docs/#/zh_CN/product_documents/m5stack-core/m5core_
 
 M5Core M5Fire = 红色主控板FIRE+m5go base底座
 
-![M5Core M5Fire](fire.jpg =500x)
+<img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/fire.jpg" width = "500" height = "500">
 
 https://m5stack.github.io/m5-docs/#/zh_CN/product_documents/m5stack-core/m5core_fire
