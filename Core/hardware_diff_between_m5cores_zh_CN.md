@@ -14,12 +14,7 @@
 
 ## 差异
 
-| *不同之处*      | *M5Core Basic* | *M5Core GRAY* | *M5Core WHITE* | *M5Fire* |
-| :------------- | :-------------:| :------------:| :-------------:| :------: |
-| 姿态传感器   | 无     | MPU9250       | MPU9250         |MPU9250  |
-| RAM            | 520KB          | 520KB         | 520KB          |520KB+4M  |
-| FLASH          | 4M             | 4M            | 16M            |16M       |
-
+<img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/core_comparison.png" width = "500" height = "500">
 
 ## 1. M5Core Basic基础套件
 

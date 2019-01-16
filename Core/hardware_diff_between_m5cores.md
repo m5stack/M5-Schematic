@@ -16,41 +16,36 @@ Currently, we have 4 kinds of M5Cores and one minicore(*named M5Stick*). They ar
 
 **Difference**
 
-| *Difference*          | *M5Core Basic* | *M5Core GRAY*   | *M5Core WHITE* | *M5Fire* |
-| :-------------------- | :------------: | :-------------: | :------------: | :------: |
-| MEMS                  | None        | MPU9250         | MPU9250        |MPU9250   |
-| RAM                   | 520KB          | 520KB           | 520KB          |520KB+4M  |
-| FLASH                 | 4M             | 4M              | 16M            |16M       |
-
+<img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/core_comparison.png" width = "500" height = "500">
 
 ## 1. M5Core Basic
 
 M5Core Basic = main board + m5core base
 
-<img src=https://github.com/m5stack/M5-Schematic/blob/master/Core/basic.jpg width = "500" height = "500">
-
 https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_basic
+
+<img src=https://github.com/m5stack/M5-Schematic/blob/master/Core/basic.jpg width = "500" height = "500">
 
 ## 2. M5Core GRAY
 
 M5Core GRAY = main board + m5core base
 
-<img src=https://github.com/m5stack/M5-Schematic/blob/master/Core/gray.jpg width = "500" height = "500">
-
 https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_gray
+
+<img src=https://github.com/m5stack/M5-Schematic/blob/master/Core/gray.jpg width = "500" height = "500">
 
 ## 3. M5GO White
 
 M5Core WHITE = main board + m5go base
 
-<img src=https://github.com/m5stack/M5-Schematic/blob/master/Core/m5go.png width = "500" height = "500">
-
 https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_white
+
+<img src=https://github.com/m5stack/M5-Schematic/blob/master/Core/m5go.png width = "500" height = "500">
 
 ## 4. M5Core M5Fire
 
 M5Core M5Fire = main board + m5go base
 
-<img src=https://github.com/m5stack/M5-Schematic/blob/master/Core/fire.jpg width = "500" height = "500">
-
 https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_fire
+
+<img src=https://github.com/m5stack/M5-Schematic/blob/master/Core/fire.jpg width = "500" height = "500">
