@@ -16,7 +16,7 @@ Currently, we have 4 kinds of M5Cores and one minicore(*named M5Stick*). They ar
 
 **Difference**
 
-<img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/core_comparison.png" width = "500" height = "500">
+<img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/core_comparison.png">
 
 ## 1. M5Core Basic
 

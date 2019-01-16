@@ -14,7 +14,7 @@
 
 ## 差异
 
-<img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/core_comparison.png" width = "500" height = "500">
+<img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/core_comparison.png">
 
 ## 1. M5Core Basic基础套件
 
