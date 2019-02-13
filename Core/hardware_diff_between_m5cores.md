@@ -25,6 +25,8 @@ The following figure shows the main difference. If you want the whole resource a
 
 <img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/core_comparison_04.png">
 
+<img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/core_comparison_05.png">
+
 <!-- ## 1. M5Core Basic
 
 M5Core Basic = main board + m5core base
