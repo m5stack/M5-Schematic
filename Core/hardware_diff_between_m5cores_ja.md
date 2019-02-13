@@ -16,7 +16,7 @@
 
 ## 違い
 
-以下の図では主な違いを紹介しています。より詳細な違いを知りたい方は[こちら](https://shimo.im/sheets/qdPK9x6RCWQwc3WK/e7c8b)を参照してください。
+以下の図では主な違いを紹介しています。より詳細な違いを知りたい方は[こちら](https://shimo.im/sheets/qdPK9x6RCWQwc3WK/GZAfa)を参照してください。
 
 <img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/core_comparison_04.png">
 
