@@ -1,5 +1,7 @@
 # Schematic difference
 
+**English** | **[中文](https://github.com/m5stack/M5-Schematic/blob/master/Core/hardware_diff_between_m5cores_zh_CN.md)** | **[日本語](https://github.com/m5stack/M5-Schematic/blob/master/Core/hardware_diff_between_m5cores_ja.md)**
+
 *This document will introduct the difference between those cores(i.e. [M5Core Basic](https://docs.m5stack.com/#/en/core/basic)(the Black one), [M5Core GRAY](https://docs.m5stack.com/#/en/core/gray)(the Gray one), [M5Fire](https://docs.m5stack.com/#/en/core/fire)(the Red one), [M5Core WHITE](https://docs.m5stack.com/#/en/core/m5go_lite), [M5Stick White](https://docs.m5stack.com/#/en/core/m5stick), [M5Stick Gray](https://docs.m5stack.com/#/en/core/m5stick))*
 
 Currently, we have 4 kinds of M5Cores and two minicores(*named M5Stick*). They are simliar to each other.
