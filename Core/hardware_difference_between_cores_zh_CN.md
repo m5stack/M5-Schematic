@@ -1,6 +1,6 @@
 # M5Core硬件配置上的比较
 
-**[English](https://github.com/m5stack/M5-Schematic/blob/master/Core/hardware_diff_between_m5cores.md)** | **中文** | **[日本語](https://github.com/m5stack/M5-Schematic/blob/master/Core/hardware_diff_between_m5cores_ja.md)**
+**[English](https://github.com/m5stack/M5-Schematic/blob/master/Core/hardware_difference_between_cores.md)** | **中文** | **[日本語](https://github.com/m5stack/M5-Schematic/blob/master/Core/hardware_difference_between_cores_ja.md)**
 
 *这篇文章主要是介绍M5Core硬件配置上的不同(i.e. [M5Core Basic](https://docs.m5stack.com/#/zh_CN/core/basic)(黑色版本), [M5Core GRAY](https://docs.m5stack.com/#/zh_CN/core/gray)(灰色版本), [M5Fire](https://docs.m5stack.com/#/zh_CN/core/fire)(红色版本), [M5Core WHITE](https://docs.m5stack.com/#/zh_CN/core/m5go_lite), [M5Stick White](https://docs.m5stack.com/#/zh_CN/core/m5stick), [M5Stick Gray](https://docs.m5stack.com/#/zh_CN/core/m5stick))*
 

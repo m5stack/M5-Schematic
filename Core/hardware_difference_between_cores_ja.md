@@ -1,6 +1,6 @@
 # M5Core ハードウェア仕様比較
 
-**[English](https://github.com/m5stack/M5-Schematic/blob/master/Core/hardware_diff_between_m5cores.md)** | **[中文](https://github.com/m5stack/M5-Schematic/blob/master/Core/hardware_diff_between_m5cores_zh_CN.md)** | **日本語**
+**[English](https://github.com/m5stack/M5-Schematic/blob/master/Core/hardware_difference_between_cores.md)** | **[中文](https://github.com/m5stack/M5-Schematic/blob/master/Core/hardware_difference_between_cores_zh_CN.md)** | **日本語**
 
 *ここではM5Core毎のハードウェア仕様の違いを紹介します。(i.e. [M5Core Basic](https://docs.m5stack.com/#/ja/core/basic)(黒色), [M5Core GRAY](https://docs.m5stack.com/#/ja/core/gray)(灰色), [M5Fire](https://docs.m5stack.com/#/ja/core/fire)(赤色), [M5Core WHITE](https://docs.m5stack.com/#/ja/core/m5go_lite), [M5Stick White](https://docs.m5stack.com/#/ja/core/m5stick), [M5Stick Gray](https://docs.m5stack.com/#/ja/core/m5stick))*
 
