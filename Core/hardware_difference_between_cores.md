@@ -25,9 +25,9 @@ The following figure shows the main difference. If you want the whole resource a
 <!-- <img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/core_comparison_01.png">
 <img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/core_comparison_02.png"> -->
 
-<img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/core_comparison_04.png">
+<img src="http://m5-docs.oss-cn-shenzhen.aliyuncs.com/assets/img/product_img/core/core_comparison_04.png">
 
-<img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/core_comparison_05.png">
+<img src="http://m5-docs.oss-cn-shenzhen.aliyuncs.com/assets/img/product_img/core/core_comparison_05.png">
 
 <!-- ## 1. M5Core Basic
 
