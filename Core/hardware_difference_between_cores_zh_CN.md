@@ -16,7 +16,11 @@
 
 ## 差异
 
-下图是展示了主控之间的主要区别，如果你想查看每一款主控的详细资源对比的话，点击[这里](https://shimo.im/sheets/qdPK9x6RCWQwc3WK/gO4S0)。
+下图是展示了主控之间的主要区别
+
+如果你想**查看**每一款主控的详细资源对比的话，点击[这里](https://shimo.im/sheets/qdPK9x6RCWQwc3WK/gO4S0)。
+
+如果你需要**下载**这个详细资源对比表格的话，点击[这里](https://github.com/m5stack/M5-Schematic/blob/master/Core/M5%20Core%20Detailed%20Comparison.xlsx)。
 
 <img src="http://m5-docs.oss-cn-shenzhen.aliyuncs.com/assets/img/product_img/core/core_comparison_04_zh_CN.png">
 
