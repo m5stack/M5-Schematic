@@ -2,9 +2,15 @@
 
 **[中文](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/hardware_diff_with_ESP32CAM_M5Camera_zh_CN.md)**
 
-*Be careful about that ESP32CAM will be suspended*
+**The firmware link**
 
-*The firmware for M5Camera is https://github.com/m5stack/m5stack-cam-psram*
+- ESP32Cam Firmware: https://github.com/m5stack/m5stack-cam-psram/tree/normal
+
+- M5Camera(A model default) Firmware: https://github.com/m5stack/m5stack-cam-psram/tree/master
+
+- M5CameraX Firmware: https://github.com/m5stack/m5stack-cam-psram/tree/master
+
+- M5CameraF Firmware: https://github.com/m5stack/m5stack-cam-psram/tree/master
 
 ## PinMap
 
