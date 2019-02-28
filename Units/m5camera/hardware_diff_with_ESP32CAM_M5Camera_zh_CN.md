@@ -2,9 +2,15 @@
 
 **[English](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/hardware_diff_with_ESP32CAM_M5Camera.md)**
 
-*注意：ESP32CAM过一段时间之后会下架。*
+**固件地址：**
 
-*M5Camera的固件地址：https://github.com/m5stack/m5stack-cam-psram*
+- ESP32Cam 固件地址：https://github.com/m5stack/m5stack-cam-psram/tree/normal
+
+- M5Camera 固件地址 (默认是 A model)：https://github.com/m5stack/m5stack-cam-psram/tree/master
+
+- M5CameraX 固件地址：https://github.com/m5stack/m5stack-cam-psram/tree/master
+
+- M5CameraF 固件地址：https://github.com/m5stack/m5stack-cam-psram/tree/master
 
 ## 管脚对比
 
