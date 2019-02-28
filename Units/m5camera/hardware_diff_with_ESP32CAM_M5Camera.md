@@ -2,7 +2,7 @@
 
 **[中文](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/hardware_diff_with_ESP32CAM_M5Camera_zh_CN.md)**
 
-**The firmware link: **
+**The firmware link:**
 
 - ESP32Cam Firmware: https://github.com/m5stack/m5stack-cam-psram/tree/normal
 
