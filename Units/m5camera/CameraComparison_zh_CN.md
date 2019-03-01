@@ -2,11 +2,13 @@
 
 **[English](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/CameraComparison_en.md)**
 
-目前，M5Stack 有四种类型的摄像头 Unit，分别是 [ESP32CAM](https://docs.m5stack.com/#/zh_CN/unit/esp32cam), [M5Camera (A Model)](https://docs.m5stack.com/#/zh_CN/unit/m5camera), [M5Camera (B Model)](https://docs.m5stack.com/#/zh_CN/unit/m5camera), M5CameraX, [M5CameraF](https://docs.m5stack.com/#/zh_CN/unit/m5camera_f)
+目前，M5Stack 有四种类型的摄像头 Unit，分别是 [ESP32CAM](https://docs.m5stack.com/#/zh_CN/unit/esp32cam), [M5Camera (A Model)](https://docs.m5stack.com/#/zh_CN/unit/m5camera), [M5Camera (B Model)](https://docs.m5stack.com/#/zh_CN/unit/m5camera), M5CameraX, [M5CameraF](https://docs.m5stack.com/#/zh_CN/unit/m5camera_f)。
+
+这些摄像头主要差异是**内存**、**接口**、**镜头**、**可选配置的硬件**和**外壳**。下图是他们的对比表格 (<mark>注意</mark>：因为接口有很多引脚不相同，所以还单独做了表格来对比。)
 
 <img src="https://m5stack.oss-cn-shenzhen.aliyuncs.com/image/m5-docs_table/camera_comparison/camera_main_comparison_zh_CN.png">
 
-## 管脚对比
+### 接口对比
 
 <img src="https://m5stack.oss-cn-shenzhen.aliyuncs.com/image/m5-docs_table/camera_comparison/CameraPinComparison_zh_CN.png">
 
@@ -21,7 +23,7 @@
 
 - M5CameraF 固件地址：https://github.com/m5stack/m5stack-cam-psram/tree/FishEye
 
-## 管脚对比
+<!-- ## 管脚对比
 
 **摄像头驱动芯片 OV2640 接口**
 
@@ -97,7 +99,7 @@ Notes:
 
 2. **麦克风引脚** ESP32Cam 上的麦克风 IC 是 SPQ2410，连接到 GPIO32 引脚。M5Camera 上的麦克风 IC 是 SPM1423，连接到 GPIO2 和 GPIO4 引脚。
 
-![Image text](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/m5camera_B.png)
+![Image text](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/m5camera_B.png) -->
 
 **A model 和 B model 的图片**
 
