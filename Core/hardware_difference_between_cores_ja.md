@@ -6,7 +6,7 @@
 
 現在、4種類のM5Stackコアと2種類のM5Stickコアがあります。
 
-**注意、最新のM5Core Fire内の9DoFセンサーはMPU9250です。（初期モデルはMPU6050とMAG3110）**
+**注意: 最新のM5Core Fire内の9DoFセンサーはMPU9250です。（初期モデルはMPU6050とMAG3110）**
 
 *I2Cアドレス*
 
@@ -16,7 +16,11 @@
 
 ## 比較表
 
-以下の図では主な違いを紹介しています。より詳細な違いを知りたい方は[こちら](https://shimo.im/sheets/qdPK9x6RCWQwc3WK/GZAfa)を参照してください。
+以下の図では主な違いを紹介しています。
+
+また、より詳細な違いを知りたい方は[こちら](https://shimo.im/sheets/qdPK9x6RCWQwc3WK/GZAfa)を参照してください。
+
+詳細な比較表をダウンロードしたい方は[こちら](https://github.com/m5stack/M5-Schematic/blob/master/Core/M5%20Core%20Detailed%20Comparison.xlsx)。
 
 <img src="http://m5-docs.oss-cn-shenzhen.aliyuncs.com/assets/img/product_img/core/core_comparison_04_ja.png">
 
