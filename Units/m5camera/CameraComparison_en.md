@@ -1,6 +1,6 @@
-# Schematic difference with ESP32CAM and M5Camera
+# Camera Units Comparison
 
-**[中文](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/CameraComparison_zh_CN.md)**
+英文 - **[中文](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/CameraComparison_zh_CN.md)** - **[日本語](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/CameraComparison_ja.md)**
 
 Now, M5Stack has four types of camera units, there are respectively [ESP32CAM](https://docs.m5stack.com/#/en/unit/esp32cam), [M5Camera (A Model)](https://docs.m5stack.com/#/en/unit/m5camera), [M5Camera (B Model)](https://docs.m5stack.com/#/en/unit/m5camera), M5CameraX, [M5CameraF](https://docs.m5stack.com/#/en/unit/m5camera_f).
 
