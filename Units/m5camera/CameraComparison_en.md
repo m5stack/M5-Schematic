@@ -8,6 +8,10 @@ The main differences between these cameras are **memory**, **interface**, **lens
 
 The picture below is their comparison table. (<mark>Note:</mark> Because the interface has many different pins, so I have made a separate table to compare.)
 
+- If you want to **view** the detailed defference with them, please click [here](https://shimo.im/sheets/gP96C8YTdyjGgKQC).
+
+- If you want to **download** the detailed defference with them, please click [here](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/M5%20Camera%20Detailed%20Comparison.xlsx).
+
 <img src="https://m5stack.oss-cn-shenzhen.aliyuncs.com/image/m5-docs_table/camera_comparison/camera_main_comparison_en.png">
 
 ### Interface Comparison

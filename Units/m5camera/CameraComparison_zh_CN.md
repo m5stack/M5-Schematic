@@ -4,7 +4,12 @@
 
 目前，M5Stack 有四种类型的摄像头 Unit，分别是 [ESP32CAM](https://docs.m5stack.com/#/zh_CN/unit/esp32cam), [M5Camera (A Model)](https://docs.m5stack.com/#/zh_CN/unit/m5camera), [M5Camera (B Model)](https://docs.m5stack.com/#/zh_CN/unit/m5camera), M5CameraX, [M5CameraF](https://docs.m5stack.com/#/zh_CN/unit/m5camera_f)。
 
-下图是他们的对比表格 (<mark>注意</mark>：因为接口有很多引脚不相同，所以还单独做了表格来对比。)
+下图是他们主要的资源对比表格 (<mark>注意</mark>：因为接口有很多引脚不相同，所以还单独做了表格来对比。)
+
+- 如果想**查看**详细的资源对比，请点击[这里](https://shimo.im/sheets/gP96C8YTdyjGgKQC/e2041)。
+
+- 如果想**下载**详细的资源对比，请点击[这里](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/M5%20Camera%20Detailed%20Comparison.xlsx)。
+
 
 <img src="https://m5stack.oss-cn-shenzhen.aliyuncs.com/image/m5-docs_table/camera_comparison/camera_main_comparison_zh_CN.png">
 
