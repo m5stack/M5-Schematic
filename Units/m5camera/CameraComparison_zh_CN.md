@@ -10,7 +10,6 @@
 
 - 如果想**下载**详细的资源对比，请点击[这里](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/M5%20Camera%20Detailed%20Comparison.xlsx)。
 
-
 <img src="https://m5stack.oss-cn-shenzhen.aliyuncs.com/image/m5-docs_table/camera_comparison/camera_main_comparison_zh_CN.png">
 
 ### 接口对比
@@ -29,6 +28,10 @@
 - M5CameraX 固件地址：https://github.com/m5stack/m5stack-cam-psram/tree/master
 
 - M5CameraF 固件地址：https://github.com/m5stack/m5stack-cam-psram/tree/FishEye
+
+#### 接口差异
+
+<img src="https://m5stack.oss-cn-shenzhen.aliyuncs.com/image/m5-docs_table/camera_comparison/CameraPinDifference_zh_CN.png">
 
 <!-- ## 管脚对比
 

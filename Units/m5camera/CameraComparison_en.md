@@ -31,6 +31,10 @@ The picture below is their comparison table. (<mark>Note:</mark> Because the int
 
 - M5CameraF Firmware: https://github.com/m5stack/m5stack-cam-psram/tree/FishEye
 
+#### Interface Difference
+
+<img src="https://m5stack.oss-cn-shenzhen.aliyuncs.com/image/m5-docs_table/camera_comparison/CameraPinDifference_en.png">
+
 **The picture of A model and B model**
 
 ![Image text](https://github.com/m5stack/M5-Schematic/blob/master/Units/m5camera/diff_A_B.png)
