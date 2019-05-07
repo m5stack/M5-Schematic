@@ -18,7 +18,7 @@ Currently, we have 4 kinds of M5Cores and two minicores(*named M5Stick*). They a
 
 The following figure shows the main difference.
 
-If you want to **view** the whole resource about cores, please click [here](https://shimo.im/sheets/qdPK9x6RCWQwc3WK/e7c8b).
+If you want to **view** the whole resource about cores, please click [here](https://shimo.im/sheets/7ZzkLVJNGolsB3QE/D0n0x).
 
 If you want to **download** this detailed comparison table about cores, please click [here](https://github.com/m5stack/M5-Schematic/blob/master/Core/M5%20Core%20Detailed%20Comparison.xlsx).
 
