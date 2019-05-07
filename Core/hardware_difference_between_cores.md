@@ -22,45 +22,6 @@ If you want to **view** the whole resource about cores, please click [here](http
 
 If you want to **download** this detailed comparison table about cores, please click [here](https://github.com/m5stack/M5-Schematic/blob/master/Core/M5%20Core%20Detailed%20Comparison.xlsx).
 
-<!-- **Difference** -->
-
-<!-- <img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/core_comparison.png"> -->
-
-<!-- <img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/core_comparison_01.png">
-<img src="https://github.com/m5stack/M5-Schematic/blob/master/Core/core_comparison_02.png"> -->
-
 <img src="https://m5stack.oss-cn-shenzhen.aliyuncs.com/image/m5-docs_table/core_comparison/core_main_comparison_04_en.png">
 
 <img src="https://m5stack.oss-cn-shenzhen.aliyuncs.com/image/m5-docs_table/core_comparison/core_main_comparison_05_en.png">
-
-<!-- ## 1. M5Core Basic
-
-M5Core Basic = main board + m5core base
-
-https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_basic
-
-<img src=https://github.com/m5stack/M5-Schematic/blob/master/Core/basic.jpg width = "500" height = "500">
-
-## 2. M5Core GRAY
-
-M5Core GRAY = main board + m5core base
-
-https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_gray
-
-<img src=https://github.com/m5stack/M5-Schematic/blob/master/Core/gray.jpg width = "500" height = "500">
-
-## 3. M5GO White
-
-M5Core WHITE = main board + m5go base
-
-https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_white
-
-<img src=https://github.com/m5stack/M5-Schematic/blob/master/Core/m5go.png width = "500" height = "500">
-
-## 4. M5Core M5Fire
-
-M5Core M5Fire = main board + m5go base
-
-https://m5stack.github.io/m5-docs/#/en/product_documents/m5stack-core/m5core_fire
-
-<img src=https://github.com/m5stack/M5-Schematic/blob/master/Core/fire.jpg width = "500" height = "500"> -->
